@@ -1,0 +1,5 @@
+C:\Users\pc\source\repos\SkyPixCH\bin\Debug\SkyPixCH.dll
+C:\Users\pc\source\repos\SkyPixCH\bin\Debug\SkyPixCH.pdb
+C:\Users\pc\source\repos\SkyPixCH\obj\Debug\SkyPixCH.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\SkyPixCH\obj\Debug\SkyPixCH.dll
+C:\Users\pc\source\repos\SkyPixCH\obj\Debug\SkyPixCH.pdb
